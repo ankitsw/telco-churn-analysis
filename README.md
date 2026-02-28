@@ -1,11 +1,11 @@
 # Telco Customer Churn Analysis
 
-## 📌 Problem Statement
+## Problem Statement
 A telecom company is losing **26.5% of its customers** every month, resulting in **$1.67M in annual revenue loss**. This project analyzes customer data to identify churn drivers, build a predictive model, and provide actionable business recommendations.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** [IBM Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Size:** 7,043 customers, 21 features
 - **Target Variable:** Churn (Yes/No)
@@ -13,7 +13,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 | Feature | Finding |
 |---|---|
@@ -27,7 +27,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 🤖 Models Built
+## Models Built
 
 | Model | Accuracy | ROC-AUC | Recall (Churners) |
 |---|---|---|---|
@@ -45,7 +45,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 1. **Onboarding Program** — Focus retention on customers in first 12 months. Churners have average tenure of only 18 months.
 
@@ -59,7 +59,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 💰 Revenue Impact
+## Revenue Impact
 
 | Metric | Value |
 |---|---|
@@ -71,7 +71,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** — pandas, numpy
 - **Visualization** — matplotlib, seaborn
 - **Machine Learning** — scikit-learn, xgboost
@@ -79,7 +79,7 @@ A telecom company is losing **26.5% of its customers** every month, resulting in
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 telco-churn-analysis/
 │
@@ -96,7 +96,7 @@ telco-churn-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
