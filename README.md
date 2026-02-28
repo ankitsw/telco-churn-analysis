@@ -1,2 +1,2 @@
 # telco-churn-analysis
-Customer churn predict using classification ML algorithms
+Customer churn prediction using classification ML algorithms
